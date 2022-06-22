@@ -77,7 +77,7 @@
         color: #2c3e50;
         text-align: center;
         margin-left: 0;
-        padding-left: 300px;
+        padding-left: 0px;
     }
     
    section{
