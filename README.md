@@ -125,7 +125,7 @@
         color: #0082e6;
     }
     #check:checked ~ ul{
-        left: -4%;
+        left: 0%;
     }
     h1{
         padding: 10px;
